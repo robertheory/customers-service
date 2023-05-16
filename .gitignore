@@ -1,0 +1,27 @@
+# Diretórios
+node_modules/
+dist/
+
+# Arquivos de compilação
+*.js
+*.js.map
+
+# Arquivos de configuração do TypeScript
+tsconfig.json
+tsconfig.build.json
+
+# Arquivos de log
+*.log
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de cache do IDE
+.vscode/
+.idea/
+
+# Outros arquivos e diretórios gerados
+*.log*
+*.swp
+.DS_Store
+Thumbs.db
